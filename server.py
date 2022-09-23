@@ -1,6 +1,5 @@
 ''' 
 CODE : ANISH M
-TO CREATE HIVE(ORGAN AI)
 '''
 
 import socket 
