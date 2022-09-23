@@ -4,7 +4,7 @@ HEADER = 64
 PORT = 5050
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!dis_conserver"
-SERVER = "192.168.1.7"
+SERVER = "enter your server ip"
 ADDR = (SERVER, PORT)
 
 
